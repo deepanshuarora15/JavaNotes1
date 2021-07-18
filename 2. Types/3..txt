@@ -1,0 +1,10 @@
+1. There are 2 kind of data types:
+   a. Primitive
+   b. Referential
+2. Be wary of the range of your data types. Eg for humanAge, you do not require an int. A byte is good enough
+   byte age;
+3. For more readability: 
+   int num = 123456789 // readability issue
+   int num = 123_456_789 // readability issue resolved
+4. long variables = 123456789L // notice the 'L' at the end
+5. float price = 10.99F // notice the 'F' at the end 

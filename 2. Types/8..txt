@@ -1,0 +1,15 @@
+1. Arrays are referential data type, hence new keyword is used.
+2. int[] number = new int[5];
+   number[0]=1;
+   number[1]=2;
+   .... and so on
+3. sout(number); //prints gibberish. 
+4. To print it better use Arrays class
+   import java.util.Arrays;
+
+   sout(Arrays.toString(number)); // toString method is overloaded and can accept arrays of all primitive data types.
+5. By default an integer array contains all zeroes. A string array contains all empty strings.
+6. The above is an old manner of initialization. A newer method is below. New keyword is not required
+	int[] number = { 1, 2, 3, 4, 5} ;
+7. If you want to sort, use the Arrays class again, as it has an in-built sort method:
+   sout(Arrays.sort(number)) // 1,2,3,4,5

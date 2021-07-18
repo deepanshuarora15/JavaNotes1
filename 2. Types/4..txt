@@ -1,0 +1,13 @@
+1. In Java, we discussed 8 primitve data types. Everything else is referential data type.
+2. 
+
+package com.packagename;
+
+import java.util.Date;
+
+public class Main{
+	psvm(String[] args){
+	Date now = new Date();
+        System.out.println(now.getTime());
+}
+}

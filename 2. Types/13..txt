@@ -1,0 +1,16 @@
+1. Implicit casting is what Java does.
+2. (int)x // this is explicit casting, done by us.
+3. String str = "1";
+   (int)str // this won't work and throw an error because of obvious reasons
+ 
+Solution:
+ int x = Integer.parseInt(str);
+ 
+4. Where to use: In most frameworks, the default nature of input from user is Strings. Hence the above code helps
+
+5. Imp: Remember if the user enters a double, then you are gonna be in trouble
+   The above code is gonna give errors
+
+Solution:
+
+double x = Double.parseDouble(str); 

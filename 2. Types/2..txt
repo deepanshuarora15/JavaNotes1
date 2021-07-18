@@ -1,0 +1,2 @@
+1. Good practice : do not initialize multiple variables on the same line.
+2. For naming variables, use camelCase

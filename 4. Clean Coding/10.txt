@@ -1,0 +1,1 @@
+1. Ideal function length is 10-20 lines. If lines are more than that, something's wrong

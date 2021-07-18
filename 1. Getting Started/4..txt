@@ -1,0 +1,8 @@
+1. .java code gets compiled to byte code. byte code has extension .class.
+2. JRE or java runtime environment is available for downloading on all kinds of OS.
+3. One of the components of JRE is : Java Virtual Machine. 
+4. JVM takes the .class or the byte code and converts it to native code, i.e. machine code for that particular OS
+5. C# and Python also follow the same architecture and hence all of them are platform independent or what we call as 'portable'.
+6. All the classes that you compile get stored in the folder
+   out->production->FirstApp->com->CodeWithMoshJava1->Main.class
+7. All code is written inside a .java file and gets compiled to .class file.	

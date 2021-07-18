@@ -1,0 +1,5 @@
+1. There are 4 standard Java editions:
+   a. Standard Edition : Must know for building anything in Java.
+   b. Enterprise Edition : used for building large scale, distributed systems
+   c. Micro Edition : for mobile app development.
+   d. Java Card : used for developing smart cards.

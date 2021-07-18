@@ -1,0 +1,7 @@
+1. boolean vari = income > 10000; // for clean code. This is better than writing:
+   
+   boolean vari;
+   if (income > 10000)
+	vari = true;
+   else
+	vari = false;

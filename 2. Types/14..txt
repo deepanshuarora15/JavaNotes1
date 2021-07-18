@@ -1,0 +1,13 @@
+1. Math class is there in java.lang package and hence no explict imports required
+2. Eg: Math.round(1.1F); 1
+   Math.ceil(1.1F) ; 2
+   * check the return type of all thrse Math class methods via IDE hints and store the result in appropriate data types.
+3. Math.max(a,b)
+4. Math.floor(num)
+5. Math.min(a,b)
+6. double a = Math.random(); // returns a value between 0 and 1
+7. What if we want a value in range 0-100
+   Solution double a = 100 * Math.random()
+8. What if we want trimming of all decimal points?
+   a. Either use explicit type cast like (int) number; or
+   b. Math.round()

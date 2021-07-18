@@ -1,0 +1,3 @@
+1. For distributing our code for others to use, we need to package our code into a JAR file.
+2. People using it would require JRE to be installed on their machine.
+3. Left from here

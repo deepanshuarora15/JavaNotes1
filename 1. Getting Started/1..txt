@@ -1,0 +1,5 @@
+1. Download jdk from Oracle for your OS.
+2. IDEs:
+   a. Eclipse
+   b. NetBeans
+   c. IntelliJ

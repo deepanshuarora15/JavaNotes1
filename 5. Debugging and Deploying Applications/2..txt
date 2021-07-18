@@ -1,0 +1,2 @@
+1. Compile time errors: syntax errors. Easy to find and fix. Half the job is done by IDE only
+2. Runtime Errors: a bit more tricky. We can use debugger and run the code line by line to find problematic area.

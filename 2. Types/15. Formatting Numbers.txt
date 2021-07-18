@@ -1,0 +1,14 @@
+1. We have a class called NumberFormat defined in java.text
+
+   import java.util.text.NumberFormat;
+
+   NumberFormat n = new NumberFormat(); // error. Because this class is abstract class and it's object cannot be instantiated.
+
+2.  NumberFormat n = NumberFormat.getCurrencyInstance() 
+    // This is a factory method that is a hack for instantiating objects of abstract classes
+3. String result = n.format(1234567.891); // $1234,567.89
+
+4. For replacing / refactoring, right click on variable name and refactor. This way it would get changed everywhere in the current class
+
+5.  NumberFormat n = NumberFormat.getPercentInstance() 
+    String result = percent.format(0.1); // prints 10%

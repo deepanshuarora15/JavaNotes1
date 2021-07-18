@@ -1,0 +1,8 @@
+1. 
+  import java.util.Scanner;
+
+Scanner scan = new Scanner(System.in);
+scan.nextInt(); // reads an integer
+scan.nextFloat(); // reads next float
+scan.nextLine(); // reads input string
+scan.next(); // reads a String but it should not have whitespaces. 

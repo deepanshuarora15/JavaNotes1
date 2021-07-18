@@ -1,0 +1,6 @@
+1. Debug skill is important
+   Step Over
+   Step into
+   Step Out // walk back by exiting the current method, back to the point where method was called
+
+2. In debug, you would see frames at LHS bottom. It is nothing but the callstack

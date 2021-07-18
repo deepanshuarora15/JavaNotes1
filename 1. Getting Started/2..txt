@@ -1,0 +1,8 @@
+1. Every Java program should have atleast one function known as main() or psvm(String[] args)
+2. A class is a container for one or more related functions.
+3. Eg: in supermarket you have sections. Each section contains related products. Eg: fruits
+4. Everything in Java needs to be inside the classes. So function is not the right terminology. The right word is methods.
+5. Access modifiers like public, private, protected etc.
+6. Naming convention:
+   a. Classes are named in Pascal notation. Eg: Main
+   b. Methods are camelcase. Eg: getDetails()

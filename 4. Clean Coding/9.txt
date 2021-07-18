@@ -1,0 +1,3 @@
+1. While refactoring the code:
+   a. Separate out repetetitve code
+   b. If repetititve code is not there, look for highly cohesive code structure: lines that together perform a single task

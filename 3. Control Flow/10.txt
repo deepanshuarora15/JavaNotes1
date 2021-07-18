@@ -1,0 +1,12 @@
+1. while(i>0){
+	sout();
+	i--;
+}
+
+2. While loop should be used when we do not know, how many times the loop would be run?
+   - Can be used in situations when we are taking console inputs from the user and do not know how many times the user is gonna input.
+     Only the suer decided it when he writes "quit"
+
+3. "deep" == "deep" ; returns false in Java
+   "deep".equals("deep"); // returns true and works only for String objects. Such comparisons won't work for other
+			  // other objects and you have to overload the equals method to achieve your desired results.

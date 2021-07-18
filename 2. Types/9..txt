@@ -1,0 +1,18 @@
+1. int [][] numbers = new int[2][3];
+   numbers[0][0] = 1;
+   
+   sout(numbers) // does not work
+
+2. sout(Arrays.toString(numbers)) // also does not work
+
+3. Imp: This is because we are dealing with multi-dimension array
+
+ Solution:
+  sout(Arrays.deepToString(numbers))
+  1 0 0
+  0 0 0
+
+4. Another syntax is:
+   int [][] numbers = {{1,2,3}, {4,5,6}};
+   // 1 2 3 
+   // 4 5 6 

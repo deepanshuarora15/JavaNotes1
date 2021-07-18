@@ -1,0 +1,6 @@
+1. Never forget to specify data types. 
+2. Always add semicolons to the end of statements.
+3. When calling a method, do not forget () while calling it
+4. Strings cannot be represented by single quotes. Only char data type which holds one character can use single quotes.
+   For strings, always use double quotes.
+5. Do not use reserved keywords for naming your variables.

@@ -1,0 +1,6 @@
+1. Escape sequence:
+   System.out.println("hello \"Mosh\""); // hello "Mosh"
+2. Windows paths are like c:\prog\main.java
+   While using such string write them as c:\\prog\\main.java
+3. \t
+4. \n

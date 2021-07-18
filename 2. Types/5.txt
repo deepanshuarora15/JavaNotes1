@@ -1,0 +1,14 @@
+1. In primitve data types:
+    int a =5;
+    int b =a;
+    a=10;
+    sout(a,b) // 10 5
+    * In primitive datatypes, a new variable is generated , with different memory allocation. Copy by value
+
+2. This is not the case in referential data types. 
+   Eg Point p1 = new Point(x:10, y:20);
+      Point p2;
+      p2 = p1;
+      p1.x = -20
+      sout(p2.x) // -20
+  Note: problem here is that these are referential data types. Changes in one are gonna affect the other. Copy by reference

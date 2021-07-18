@@ -1,0 +1,12 @@
+1. foreach loop
+
+String[] fruits = { "apple", "mango", "cherry" };
+
+for (String str: fruits){
+	sout(str);
+}
+
+Limitations of foreach loop, compared to normal for loops:
+
+1. Index of the array cannot be accessed while parsing
+2. Can only be traversed from beginning to end and not the other way round

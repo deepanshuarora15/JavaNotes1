@@ -1,0 +1,16 @@
+1. String is also a part of java.lang package
+2. java.lang package is present by default. No need to import
+3. String mystr = new String("wassup");
+4. String are reference type in Java.
+5. However, they are used frequently and hence Java allows you to use them, as if they were primitive data types.
+   String mystr = "wassup" ; // does the same job
+6. String concatenation:
+   Eg: c= a +b; // c is a new string returned via concatenation
+7. String class has some cool methods:
+   a. text.endswith(str)  // returns boolean
+   b. text.startswith(str)  // returns boolean
+   c. txt.length() // returns the length of the string
+   d. txt.indexOf('a')  // returns the first index of. Returns -1 if not found
+   e. txt.replace('a', 'b') // returns  a new string with replacement all occurences of 'a' with 'b'. Strings immutable
+   f. txt.toLowerCase() 
+   g. txt.trim() // trims off spaces from beginning and ending

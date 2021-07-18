@@ -1,0 +1,13 @@
+1. switch(){
+	case "":
+		break;
+	case "":
+		break;
+	default:
+}
+
+2. Things that can be used in switch are:
+   a. byte, short, int etc anything but not long
+   b. strings
+   c. char
+
