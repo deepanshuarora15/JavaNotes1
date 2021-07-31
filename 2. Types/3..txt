@@ -6,5 +6,5 @@
 3. For more readability: 
    int num = 123456789 // readability issue
    int num = 123_456_789 // readability issue resolved
-4. long variables = 123456789L // notice the 'L' at the end
-5. float price = 10.99F // notice the 'F' at the end 
+4. long variables = 123456789L // notice the 'L' at the end. Can also be 'l', but generally 'L'
+5. float price = 10.99F // notice the 'F' at the end. Can also be 'f', but generally 'F'.

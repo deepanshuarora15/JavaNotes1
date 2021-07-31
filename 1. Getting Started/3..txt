@@ -1,9 +1,9 @@
 1. As class is a container for related methods, a package is a container for related classes.
-2. All java files have a Java extension.
+2. All java files have a .java extension.
 3. All java files have a top statement
    package com.packagename;
 4. Every program when launched has a java file called Main.java
    that contains psvm
 5. System class is defined in java.lang package. Anything that's inside the lang package like String class, does not need
-   to be imported excplicity. They are ready to use, as is.
+   to be imported explicitily. They are ready to use, as is.
 6. f stands for fields and m stands for methods, in IDE dropdowns.
